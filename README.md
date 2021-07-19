@@ -8,12 +8,27 @@ comingsoon...
     <tbody>
         <tr>
             <td>
-                        <img src="https://github.com/baydim/absen/blob/main/design/login.png">
+               <img src="https://github.com/baydim/absen/blob/main/design/login.png">
             </td>
-
-            <td>camelCase</td>
-            <td><code>newCustomerId</code></td>
-            <td><code>newCustomerID</code></td>
+            <td>
+               <img src="https://github.com/baydim/absen/blob/main/design/login.png">
+            </td>
+            <td>
+               <img src="https://github.com/baydim/absen/blob/main/design/login.png">
+            </td>
+            <td>
+               <img src="https://github.com/baydim/absen/blob/main/design/login.png">
+            </td>
+            <td>
+               <img src="https://github.com/baydim/absen/blob/main/design/login.png">
+            </td>
+            <td>
+               <img src="https://github.com/baydim/absen/blob/main/design/login.png">
+            </td>            
+            <td>
+               <img src="https://github.com/baydim/absen/blob/main/design/login.png">
+            </td>
+            
         </tr>
     </tbody>
   </table>
