@@ -20,7 +20,6 @@ comingsoon...
                <img src="https://github.com/baydim/absen/blob/main/design/checkprofil.png">
             </td>
         </tr>
-
         <tr>
             <td>
                <img src="https://github.com/baydim/absen/blob/main/design/sheethome.png">
@@ -33,12 +32,10 @@ comingsoon...
             </td>
             <td>
                <img src="https://github.com/baydim/absen/blob/main/design/absen.png">
-            </td>
-           
+            </td>   
         </tr>        
-        
         <tr>
-             <td>
+            <td>
                <img src="https://github.com/baydim/absen/blob/main/design/location.png">
             </td>
             <td>
@@ -49,10 +46,7 @@ comingsoon...
             </td>
             <td>
                <img src="https://github.com/baydim/absen/blob/main/design/profil.png">
-            </td>
-           
+            </td>   
         </tr>      
-        
-        
     </tbody>
   </table>
