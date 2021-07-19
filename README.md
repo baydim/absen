@@ -28,7 +28,6 @@ comingsoon...
             <td>
                <img src="https://github.com/baydim/absen/blob/main/design/login.png">
             </td>
-            
         </tr>
     </tbody>
   </table>
