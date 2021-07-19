@@ -1,7 +1,6 @@
 # absen
-## attendance app using flutter and laravel
-comingsoon...
-
+attendance app using flutter and laravel
+## comingsoon...
 # Design UI
 
 <table>
