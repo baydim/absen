@@ -7,7 +7,7 @@ comingsoon...
 <table>
     <tbody>
         <tr>
-            <td>"new customer ID"</td>
+            <img src="github.com/baydim/absen/blob/main/design/login.png">
             <td>camelCase</td>
             <td><code>newCustomerId</code></td>
             <td><code>newCustomerID</code></td>
